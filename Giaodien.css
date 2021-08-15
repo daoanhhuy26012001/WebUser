@@ -1,0 +1,81 @@
+.container{
+    width: 100%;
+    height: auto;
+}
+.menu{
+    width: 100%;
+    height: 120px;
+    background-color: #237061 ;
+}
+.up{
+    width: 90%;
+    height: 70px;
+    margin : 0 auto;
+}
+.up ul{
+    list-style: none;
+    margin-top: 0px;
+    margin-left: -64px;
+}
+.up ul li{
+    display:inline-block;
+    padding: 20px;
+    margin-top: -10px ;
+}
+.up ul li a{
+    text-decoration: none;
+    color: black; 
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.up ul li a img{
+    vertical-align: middle;
+}
+.logo a img{
+    padding-right: 30px;
+    border-radius: 5px;
+}
+.trangchu a img, .lienhe a img, .dichvu a img, .sanpham a img, .hoatdong a img{
+    width: 25px;
+    height: 20px;
+    border-radius: 10px;
+}
+.down{
+    width: 90%;
+    height: 50px;
+    margin: 0 auto;
+}
+.search{
+    background-color:white;
+    height: 40px;
+    width: 720px;
+    border-radius: 10px;
+}
+.search input{
+    width: 677px;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-size:  15px;
+}
+.search button{
+    border: 0px;
+
+}
+.search button img{
+    width: 22px;
+    height: 25px;
+    vertical-align: middle;
+}
+.content {
+    width: 100%;
+    margin: 0 auto;
+}
+.item img{
+    width: 100%;
+    height: auto;
+}
+.text-reset img{
+    width: 50px;
+}
